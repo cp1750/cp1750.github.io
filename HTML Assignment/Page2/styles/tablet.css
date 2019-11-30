@@ -1,0 +1,86 @@
+div.intro {
+	text-align: center;
+	clear:both;
+	background:rgb(300,200,100);
+	padding:1.5%;
+}
+
+img {
+	width:100%;
+}
+
+div.travel {
+	width:48%;
+	float: left;
+	padding-right:2%;;
+}
+
+div.movie {
+	width:48%;
+	float:left;
+	padding-left:2%;;
+}
+
+div.other{
+	clear:both;
+}
+body {
+	background-color: rgb(251,255,130);
+}
+
+h1 {
+	font-size: 40px;
+	font-family: "Arial", "Helvetica Neue";
+	font-weight: bold;
+	color: rgb(0,150,0);
+	padding-left: 20px;
+}
+
+h2 {
+	font-size:30px;
+	font-family:"cambria math";
+	color: rgb(150,0,0);
+	font-weight: bold;
+}
+
+h3 {
+	font-size:25px;
+	font-family:"calibri";
+	color: rgb(120,0,0);
+	font-weight: bold;
+}
+
+p {
+	font-size: 16px;
+	font-family: "american typewriter", "Helvetica", "arial";
+
+}
+
+a {
+	color: red;
+
+}
+
+a:link {
+	color: red;
+}
+
+a:visited {
+	color: silver;
+}
+
+a:focus {
+	color: blue;
+}
+
+a:hover {
+	color:green;
+}
+
+a:active {
+	color:black;
+}
+
+li {
+	font-weight: bold;
+}

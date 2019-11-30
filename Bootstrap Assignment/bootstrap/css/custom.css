@@ -1,0 +1,73 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+#main_nav {
+	background-color: #2D3047;
+}
+
+#main_nav * {
+	color: #E0CA3C;
+}
+
+body {
+	background-color: #93B7BE;
+}
+
+div.heading {
+	text-align: center;
+	color: white;
+}
+
+#button {
+	text-align: center;
+	border-color: white;
+}
+
+.btn-primary {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	background-color: orange;
+	padding: 20px;
+	border-color:purple;
+
+}
+
+#firstparagraph {
+	font-size: 20px;
+	font-style: italic;
+}
+
+ol {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#boxoffice {
+	text-align: center;
+	color: white;
+	font-size: 25px;
+}
+
+.center-block {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+	font-family: "Arial Black";
+}
+
+#synopsis {
+	font-weight: bold;
+	font-size: 15px;
+}
+
+nav {
+	font-family: "Comic Sans MS";
+}
